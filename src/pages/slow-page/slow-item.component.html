@@ -1,0 +1,11 @@
+<ion-card>
+	<ion-card-header>
+		<img src="{{'assets/images/'+getCostIcon()+'.png'}}">
+		{{item.name}}
+	</ion-card-header>
+
+	<ion-card-content>
+		<hr>
+		<div><ion-badge *ngFor="let tag of item.tags">{{tag}}</ion-badge></div>
+	</ion-card-content>
+</ion-card>

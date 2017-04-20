@@ -1,0 +1,800 @@
+[
+  {
+    "id": "45ccf7a4-a419-09a5-8467-03eafb7ab62e",
+    "name": "Tomatoes",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "a08f12f5-8027-544e-d866-ee2047a983c3",
+    "name": "Linguine",
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "id": "a14a97e2-5338-b8be-9371-b4d196f6cdc9",
+    "name": "Croissant dough",
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "id": "fe5f5783-9f4e-61be-a10d-e5511204d688",
+    "name": "Salmon",
+    "tags": [
+      "Fish"
+    ]
+  },
+  {
+    "id": "1ec56873-5ad2-6266-4e3a-70a3f897719d",
+    "name": "Coconut cream",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "f6611397-351a-4265-1f07-9e9f005d0647",
+    "name": "Dark chocolate",
+    "tags": [
+      "Confectionery"
+    ]
+  },
+  {
+    "id": "7686aa64-b7a2-478d-97fc-77cc62607233",
+    "name": "Meat for salads",
+    "tags": [
+      "Cooked Meats"
+    ]
+  },
+  {
+    "id": "fd6fb0be-df9c-d32a-65c7-4bb14b040be5",
+    "name": "Mini Wheatabix",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "2ca1bcc4-cb86-4788-e05a-caeb36a581b0",
+    "name": "Natural Greek yoghurt",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "7df6e0f7-8187-a9b6-be67-0a9a096de30d",
+    "name": "Plain couscous",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "2d447eb8-57b4-94cf-6adf-20b55be168e2",
+    "name": "Toilet roll",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "db34aea7-ceae-63dc-c61d-2471b22c8ce9",
+    "name": "Granulated sugar",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "79e4ecd4-b4c3-f9a1-ea61-4fc75017f67b",
+    "name": "Mushrooms",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "39a7fc34-6018-993e-8613-5c98c3a4a6d5",
+    "name": "Mustard",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "4f577b5c-efc2-d1a2-f52b-a5bc4137da6a",
+    "name": "Salt",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "4c7e16c6-aa5a-73ec-895b-0f592494dfc9",
+    "name": "Tea bags",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "b7927ceb-4605-05e7-f725-63c212e16b3f",
+    "name": "Vegetables",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "1fed8b19-e8e9-6420-3b2d-61cc40f6893e",
+    "name": "Potatoes",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "481cffd7-3275-fcd6-0412-ad3f11727a45",
+    "name": "Baked beans",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "ac8e7afd-708b-ae8e-52ba-e24b7d551b7d",
+    "name": "Deodorant",
+    "tags": [
+      "Health & Beauty"
+    ]
+  },
+  {
+    "id": "f99fe87c-afe4-0021-7096-21df6e82de73",
+    "name": "Strong wholemeal flour",
+    "tags": [
+      "Bakery"
+    ]
+  },
+  {
+    "id": "1c4ee558-31bc-d97a-cef9-34e7f883f25d",
+    "name": "Onions",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "3f552021-0d09-1c0a-bedd-0b78358c4934",
+    "name": "Cooking butter",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "81fc7a8f-3288-16ac-a193-fea21858f038",
+    "name": "Crackers",
+    "tags": [
+      "Snacks"
+    ]
+  },
+  {
+    "id": "496f1d43-7aa2-0c86-4762-f2d9e3a32e93",
+    "name": "Fresh spinach",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "f5269e7a-9952-f6e2-fa8f-5e45dcadb1e1",
+    "name": "Olive oil",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "532d7d77-f666-0688-dc91-ea9c357850e4",
+    "name": "Strong white flour",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "02711eda-9c45-bd7b-52da-7c59d2cff263",
+    "name": "Fruit",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "a459cf54-6d8d-a765-ffe6-83a6c60636d5",
+    "name": "Kitchen roll",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "03336545-8569-7d21-f377-a31bf086e1a1",
+    "name": "Spaghetti",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "6749df66-4f8b-813b-db50-e3aef08d5c9e",
+    "name": "Gouda cheese",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "5a0f1a95-b182-f6c8-6a6f-a04c7e9390d5",
+    "name": "Grapes",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "614e8c69-c11c-eacf-efce-a67ff10fae43",
+    "name": "Humus",
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "id": "fa8ac510-8f91-6e46-6070-45232e13d8b4",
+    "name": "Honey",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "1d250d52-9143-1811-8dab-d9732d613ca5",
+    "name": "Beef stock",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "174395ce-9345-d5c5-24ba-7502886af202",
+    "name": "Frozen fish fillets",
+    "tags": [
+      "Frozen Food"
+    ]
+  },
+  {
+    "id": "34b54a7a-0ee6-e4f1-e357-fe94a5823fdb",
+    "name": "Frozen peas",
+    "tags": [
+      "Frozen Food"
+    ]
+  },
+  {
+    "id": "451c15b4-a35e-6a22-ef7b-e94d3e85db61",
+    "name": "Frozen sweetcorn",
+    "tags": [
+      "Frozen Food"
+    ]
+  },
+  {
+    "id": "2fb1db0f-cf64-0f38-551a-a37200b002e8",
+    "name": "Mayonnaise",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "f9d93348-55eb-f7c0-bb11-be587d858287",
+    "name": "Bread seeds",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "895d5ad9-fa30-db82-814c-4e990237a400",
+    "name": "Minced beef",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "5da648f7-818e-1fec-c60c-d688c033bdab",
+    "name": "Nuts",
+    "tags": [
+      "Snacks"
+    ]
+  },
+  {
+    "id": "4de3946f-fa95-7a83-796b-e395f0de7ad2",
+    "name": "Toothpaste",
+    "tags": [
+      "Health & Beauty"
+    ]
+  },
+  {
+    "id": "3166ef9e-7a67-7d3d-8397-7dbb81b279e4",
+    "name": "Antibacterial wipes",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "a90b2dab-a43b-f26e-e99f-1c45192107d5",
+    "name": "Bacon",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "64297d79-7ad0-2192-8282-0e84618f688f",
+    "name": "Bananas",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "84752792-e97d-ef3f-091c-f7060f1981a7",
+    "name": "Bleach",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "3d359452-3eda-a0cd-8dcf-08ed2cda8ac3",
+    "name": "Caster sugar",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "7dc9a869-dccb-fdd9-5616-4ffac1afab8d",
+    "name": "Chopped canned tomatoes",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "419c8e32-5ad1-f9b7-c543-6c3c20272cf2",
+    "name": "Chorizo",
+    "tags": [
+      "Cooked Meats"
+    ]
+  },
+  {
+    "id": "a7e543ca-0ec0-7a5b-4728-4a940a6855c6",
+    "name": "Chunky fish fingers",
+    "tags": [
+      "Frozen Food"
+    ]
+  },
+  {
+    "id": "4d9120bb-614d-9dcb-d2d1-99e5b4b63c40",
+    "name": "Detol",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "a26f1f6f-ea02-2679-e965-bf27211d8061",
+    "name": "Fajita mix",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "6dc179a5-6379-1ee8-b335-d828dfc9b538",
+    "name": "Long grain rice",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "bfc07967-f213-ce8f-0e38-89ac46c9e93b",
+    "name": "Porridge",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "b9b4a827-1fc4-41b6-afa2-672e0762b064",
+    "name": "Risotto",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "50b43d51-8743-05b4-d540-5179f56f4605",
+    "name": "Smoked salmon",
+    "tags": [
+      "Fish"
+    ]
+  },
+  {
+    "id": "96619759-46b9-cbc5-7c2a-0ce36ad4395a",
+    "name": "Yorkshire puddings",
+    "tags": [
+      "Frozen Food"
+    ]
+  },
+  {
+    "id": "0d44242f-79de-360a-9c21-a6474133e8d1",
+    "name": "Chewing gum",
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "id": "eb7543cf-2a2d-ffa0-93c1-1e32163a78f7",
+    "name": "Clusters",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "49b2d421-3b0c-f87c-5510-a29260eb78ec",
+    "name": "Milk",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "926d8965-9487-44fa-2645-9e18bd3bfafd",
+    "name": "Salad for lunch",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "d05f1dae-cbe6-94d5-ffdb-8cf91eb7c8ce",
+    "name": "Butter",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "ec8174f4-d70d-1752-7764-c6e3cd72be93",
+    "name": "Carrots",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "4a598618-025f-db86-bf0a-72b1d9d78866",
+    "name": "Chicken",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "91237153-8071-ef48-99c2-89ec63a289bc",
+    "name": "Chicken stock",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "b565a9fa-6796-20a7-c111-f1de79fc3bd0",
+    "name": "Cucumber",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "5ae8dd2a-94d8-0078-14ca-c15fed1fab48",
+    "name": "Dried milk",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "0e37db61-8c37-90ba-825a-e40fddfa3632",
+    "name": "Garlic",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "43302f62-3376-8ab6-a02e-b1d1a28ba611",
+    "name": "Gravy granules",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "ad465ede-2001-8203-57ad-9fc0d95720b5",
+    "name": "Guacamole",
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "id": "c6386535-2606-0a15-701c-a47b055b3296",
+    "name": "Lemons",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "d764dfb3-daa8-1234-9bb8-f22307ada5af",
+    "name": "Longlife milk",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "ce59b521-9c11-b173-2d8a-bd012eafc4a0",
+    "name": "Sour cream",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "6f0dee86-4ca2-acd1-75c8-2e23e6ffda24",
+    "name": "Toothbrush",
+    "tags": [
+      "Health & Beauty"
+    ]
+  },
+  {
+    "id": "5fe449bf-cc50-0d33-1c46-6e63c81aa860",
+    "name": "Beef steaks",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "fb3c5ae8-ba1d-7abd-65f0-4d61854ae13b",
+    "name": "Cheap honey",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "403fb7b6-f14d-d6f7-2a44-0ee81e8c1214",
+    "name": "Chicken drumsticks",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "aef97f39-aad2-726e-8df1-b0f95d20711b",
+    "name": "Chicken thighs",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "a524fe8e-4776-67ae-60fe-4646f46f5d0e",
+    "name": "Cling film",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "bbde29c1-fdc3-c8d7-33bf-7bf6fad36d89",
+    "name": "Juices",
+    "tags": [
+      "Drinks"
+    ]
+  },
+  {
+    "id": "89328106-9178-e438-eb96-685dac3ed29f",
+    "name": "Kitchen foil",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "119c248e-b45e-2b8d-c164-67ce23c0a04c",
+    "name": "Paracetamol",
+    "tags": [
+      "Pharmacy"
+    ]
+  },
+  {
+    "id": "726f5c81-e65c-ed4f-0626-9573fbef8c03",
+    "name": "Peppers",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "df275d13-f6ad-5a1a-b75b-a113e2b5f121",
+    "name": "Sausages",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "60bdd65e-f103-562a-e863-ef474ee16b61",
+    "name": "Sweet potatoes",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "89ba54f5-bace-127a-bcec-9a42bb21c391",
+    "name": "Tortilla wraps",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "9ca31ea7-4f4f-3a7a-1ba1-8d914a5d9c54",
+    "name": "Beer",
+    "tags": [
+      "Drinks"
+    ]
+  },
+  {
+    "id": "2333ed06-4f26-4754-eca8-fbae8ba334ff",
+    "name": "Butter beans",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "cccbb9bd-84dd-cbb6-330a-444a75cb6797",
+    "name": "Butternut squash",
+    "tags": [
+      "Produce"
+    ]
+  },
+  {
+    "id": "7cd0a727-8c2f-6a0b-90b2-fced5ee96397",
+    "name": "Canned tuna",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "2062f9c2-6b68-902b-823a-e7d34d6d2868",
+    "name": "Cereals",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "7fdc6ab8-5b87-2378-e14f-5a7ea6394dbf",
+    "name": "Cream",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "f3cec637-735f-e208-7f6d-6276996ff960",
+    "name": "Crisps",
+    "tags": [
+      "Snacks"
+    ]
+  },
+  {
+    "id": "c8e70e75-cbd3-3b03-aa9d-a4e27e7fa1d7",
+    "name": "Easy bake yeast",
+    "tags": [
+      "Bakery"
+    ]
+  },
+  {
+    "id": "d9de62a3-8a48-3bde-8d76-13b20af27736",
+    "name": "Eggs",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "760067bf-8ec7-bd5d-9dbd-a0d247fb3f63",
+    "name": "Goose fat",
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "id": "b954d028-22f6-2819-975e-1d2c9fd6b150",
+    "name": "Jams",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "cd663b53-6fd0-b73f-e0e4-4093cd9f3736",
+    "name": "Jelly",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "ead15991-e8b1-acc4-a6c2-7c5eb84f8c6a",
+    "name": "Microwave rice",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "ac9e7535-da0d-0b5e-8f8d-ab9dbb58626a",
+    "name": "Salad cream",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "f58edbc6-88c4-7f95-82ef-267d37d8b4e4",
+    "name": "Soap",
+    "tags": [
+      "Health & Beauty"
+    ]
+  },
+  {
+    "id": "a7967a42-b09f-f34f-3b88-f7ca33b3cdd4",
+    "name": "Sugar",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "2b011107-18c8-fb87-ea0e-c9a6869bd58c",
+    "name": "Beef joint",
+    "tags": [
+      "Meats"
+    ]
+  },
+  {
+    "id": "413d133a-3d13-b76b-0244-d7ff6c6a135f",
+    "name": "Cheddar cheese",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "a601e639-b963-66f4-6ed5-6f6333fb5f6c",
+    "name": "Dairylea",
+    "tags": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "e310c440-9564-5514-68e3-de26e9d4acf5",
+    "name": "Dental floss",
+    "tags": [
+      "Health & Beauty"
+    ]
+  },
+  {
+    "id": "f27fced2-8604-33a2-e7b9-4ebc0d14966d",
+    "name": "Freezing bags",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "4d5f041d-4519-9bc1-1a9b-f6aefd9d65e7",
+    "name": "Peanut butter",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "756dbe64-f821-6a7d-202c-3f581c0c5b58",
+    "name": "Pepsi Max",
+    "tags": [
+      "Drinks"
+    ]
+  },
+  {
+    "id": "28c43a00-f26b-4788-7e57-29529876a923",
+    "name": "Black bin bags",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "af44c1a6-0deb-00ce-7598-08cea2d02e59",
+    "name": "Popcorn corn",
+    "tags": [
+      "Cupboard"
+    ]
+  },
+  {
+    "id": "576c52b7-6b62-df87-d97c-d84930cd6d5e",
+    "name": "Scourer pad",
+    "tags": [
+      "House & Kitchen"
+    ]
+  },
+  {
+    "id": "405436bf-50f0-86b5-21ed-bc976602a445",
+    "name": "Vegetable oil",
+    "tags": [
+      "Cupboard"
+    ]
+  }
+]

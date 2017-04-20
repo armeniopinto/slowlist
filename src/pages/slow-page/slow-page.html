@@ -1,0 +1,13 @@
+<ion-header>
+	<ion-navbar>
+		<ion-title>Slow Page</ion-title>
+	</ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+	<div *ngFor="let tag of getTags()">
+		<span class="separator"><strong>{{tag}}</strong></span>
+		<slow-item *ngFor="let item of items[tag]" [item]="item"></slow-item>
+	</div>
+</ion-content>
