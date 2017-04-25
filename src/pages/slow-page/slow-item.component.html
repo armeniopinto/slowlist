@@ -1,4 +1,4 @@
-<ion-card>
+<ion-card (press)="doPress()" (click)="doClick()">
 	<ion-card-header>
 		<img src="{{'assets/images/'+getCostIcon()+'.png'}}">
 		{{item.name}}

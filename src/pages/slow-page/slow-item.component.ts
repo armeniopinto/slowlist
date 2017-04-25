@@ -8,7 +8,7 @@ import {ModalController} from "ionic-angular";
 export class SlowItemComponent {
 
 	@Input()
-	private item: any;
+	item: any;
 
 	constructor(private modalCtrl: ModalController) {
 	}
@@ -29,6 +29,16 @@ export class SlowItemComponent {
 			costIcon = "cost133";
 		}
 		return costIcon;
+	}
+
+
+	doClick(): void {
+		console.log("Tap tap tap!");
+	}
+
+
+	doPress(): void {
+		console.log("Press press press!");
 	}
 
 }
